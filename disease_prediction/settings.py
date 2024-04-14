@@ -81,9 +81,9 @@ WSGI_APPLICATION = 'disease_prediction.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'project',
-        'USER': 'postgres',
-        'PASSWORD': 'Tensor@321',
+        'NAME': 'DATABASE NAME',
+        'USER': 'USERNAME',
+        'PASSWORD': 'YOUR PASSWORD',
         'HOST': 'localhost',
         'PORT': '5432',
     }
