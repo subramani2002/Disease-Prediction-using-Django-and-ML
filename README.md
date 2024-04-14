@@ -23,6 +23,3 @@ https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 ![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
 ![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
 
-
-### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
-and if you like this project, do give it a "Star" Thank you..
